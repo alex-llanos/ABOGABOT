@@ -1,2 +1,2 @@
 # ABOGABOT
-Desarrollo Web - Práctica (LaunchX)
+Desarrollo Web - Caso de Práctica (LaunchX)
